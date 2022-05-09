@@ -1,3 +1,4 @@
-# 3.C51_project
+# MIT 20.C51 Class Project
 
-Prediciting type of antibiotic resisatnce from given bacterial sequences.
+
+We predict type of antibiotic resistance and mechanism of resistance from given bacterial gene sequences. We highlight important part of the sequence and also viusalize high dimesnional image embeddings using UMAP.
